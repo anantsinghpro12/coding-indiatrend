@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Allow: /python
+Allow: /c
+Allow: /cpp
+
+Sitemap: https://coding.indiatrend.in/sitemap.xml
